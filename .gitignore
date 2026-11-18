@@ -1,0 +1,29 @@
+# Original EuroSAT dataset
+data/raw/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# Trained CNN models
+models/*.keras
+models/*.h5
+
+# Backup files
+backups/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
